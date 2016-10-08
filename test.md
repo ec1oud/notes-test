@@ -1,4 +1,4 @@
 # a checklist
 - [ ] too
 - [ ] bar
-- [+] done
+- [x] done
